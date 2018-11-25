@@ -1,5 +1,13 @@
-## Collection of great papers on functional programming and software-engineering
+## Opinionated collection of great papers on functional programming and software-engineering
 
+What follows is a compilation of papers and articles which were very
+influential in the development of _my_ understanding of computer science
+and programming. In another words, this is not a hall of fame; I list 
+them because I believe they provide immensely useful information for 
+aspiring programmers; programmers to whom this list may be recommended.
+For this reason, positions included here may not be necessarily "great"
+by any standard other than mine. (Although there is an obvious overlap -
+some recommendations may even verge on being a cliché.)
 
 ### An Axiomatic Basis for Computer Programming - C. A. R. Hoare - 1969
 
