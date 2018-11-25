@@ -1,6 +1,18 @@
 ## Collection of great papers on functional programming and software-engineering
 
 
+### An Axiomatic Basis for Computer Programming - C. A. R. Hoare - 1969
+
+_Abstract_: In this paper an attempt is made to explore the logical 
+foundations of computer programming by use of techniques which were first 
+applied in the study of geometry and have later been extended to other 
+branches of mathematics. This involves the elucidation of sets of axioms
+and rules of inference which can be used in proofs of the properties of 
+computer programs. Examples are given of such axioms and rules, and a formal
+proof of a simple theorem is displayed. Finally, it is argued that important
+advantage, both theoretical and practical, may follow from a pursuance of
+these topics.
+
 ### Why Functional Programming Matters - J. Hughes - 1989/1990
 
 _Abstract_: As software becomes more and more complex, it is more and more
