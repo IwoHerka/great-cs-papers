@@ -9,6 +9,8 @@ For this reason, positions included here may not be necessarily "great"
 by any standard other than mine. (Although there is an obvious overlap -
 some recommendations may even verge on being a cliché.)
 
+<br>
+
 ### An Axiomatic Basis for Computer Programming - C. A. R. Hoare - 1969
 
 _Abstract_: In this paper an attempt is made to explore the logical 
@@ -34,3 +36,15 @@ the alpha-beta heuristic (an algorithm from Artificial Intelligence
 used in game-playing programs). We conclude that since modularity is the
 key to successful programming, functional programming offers important
 advantages for software development.
+
+### Out of the Tar Pit - B. Moseley, P. Marks - 2006
+
+_Abstract_: Complexity is the single major difficulty in the successful development
+of large-scale software systems. Following Brooks we distinguish
+accidental from essential difficulty, but disagree with his premise that
+most complexity remaining in contemporary systems is essential. We
+identify common causes of complexity and discuss general approaches
+which can be taken to eliminate them where they are accidental in
+nature. To make things more concrete we then give an outline for
+a potential complexity-minimizing approach based on functional programming
+and Codd’s relational model of data.
