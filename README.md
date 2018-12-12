@@ -11,6 +11,18 @@ some recommendations may even verge on being a cliché.)
 
 <br>
 
+### Go To Considered Harmful - E. Dijkstra - 1968
+
+_Abstract_: For a number of years I have been familiar with the observation
+that the quality of programmers is a decreasing function of the density of
+go to statements in the programs they produce. More recently I discovered
+why the use of the go to statement has such disastrous effects, and I became
+convinced that the go to statement should be abolished from all "higher level"
+programming languages (i.e. everything except, perhaps, plain machine code).
+At that time I did not attach too much importance to this discovery; I now
+submit my considerations for publication because in very recent discussions
+in which the subject turned up, I have been urged to do so.
+
 ### An Axiomatic Basis for Computer Programming - C. A. R. Hoare - 1969
 
 _Abstract_: In this paper an attempt is made to explore the logical 
