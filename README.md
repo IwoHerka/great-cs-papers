@@ -11,7 +11,7 @@ some recommendations may even verge on being a cliché.)
 
 <br>
 
-### Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I - J. McCarthy - 1960
+### [Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I - J. McCarthy - 1960](https://github.com/IwoHerka/great-cs-papers/blob/master/Recursive_Functions_of_Symbolic_Expressions_and_Their_Computation_by_Machine_McCarthy.pdf)
 
 _Abstract_: In this article, we first describe a formalism for defining
 functions recursively. We believe this formalism has advantages both as
@@ -27,7 +27,7 @@ for the IBM 704. Next comes another way of describing computations with
 symbolic expressions, and finally we give a recursive function
 interpretation of flow charts.
 
-### Go To Considered Harmful - E. Dijkstra - 1968
+### [Go To Considered Harmful - E. Dijkstra - 1968](https://github.com/IwoHerka/great-cs-papers/blob/master/Go_To_Statement_Considered_Harmful_E_Dijkstra.pdf)
 
 _Abstract_: For a number of years I have been familiar with the observation
 that the quality of programmers is a decreasing function of the density of
@@ -39,7 +39,7 @@ At that time I did not attach too much importance to this discovery; I now
 submit my considerations for publication because in very recent discussions
 in which the subject turned up, I have been urged to do so.
 
-### An Axiomatic Basis for Computer Programming - C. A. R. Hoare - 1969
+### [An Axiomatic Basis for Computer Programming - C. A. R. Hoare - 1969](https://github.com/IwoHerka/great-cs-papers/blob/master/An_Axiomatic_Basis_for_Computer_Programming_C_A_R_Hoare.pdf)
 
 _Abstract_: In this paper an attempt is made to explore the logical 
 foundations of computer programming by use of techniques which were first 
@@ -51,7 +51,7 @@ proof of a simple theorem is displayed. Finally, it is argued that important
 advantage, both theoretical and practical, may follow from a pursuance of
 these topics.
 
-### Why Functional Programming Matters - J. Hughes - 1989/1990
+### [Why Functional Programming Matters - J. Hughes - 1989/1990](https://github.com/IwoHerka/great-cs-papers/blob/master/Why_Functional_Programming_Matters_J_Hughes.pdf)
 
 _Abstract_: As software becomes more and more complex, it is more and more
 important to structure it well. Well-structured software is easy to write
@@ -65,7 +65,7 @@ used in game-playing programs). We conclude that since modularity is the
 key to successful programming, functional programming offers important
 advantages for software development.
 
-### Out of the Tar Pit - B. Moseley, P. Marks - 2006
+### [Out of the Tar Pit - B. Moseley, P. Marks - 2006](https://github.com/IwoHerka/great-cs-papers/blob/master/Out_of_the_Tar_Pit_B_Moseley_P_Marks.pdf)
 
 _Abstract_: Complexity is the single major difficulty in the successful development
 of large-scale software systems. Following Brooks we distinguish
