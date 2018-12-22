@@ -11,6 +11,22 @@ some recommendations may even verge on being a cliché.)
 
 <br>
 
+### Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I - J. McCarthy - 1960
+
+_Abstract_: In this article, we first describe a formalism for defining
+functions recursively. We believe this formalism has advantages both as
+a programming language and as a vehicle for developing a theory of
+computation. Next, we describe S-expressions and S-functions, give some
+examples, and then describe the universal S-function apply which plays
+the theoretical role of a universal Turing machine and the practical
+role of an interpreter. Then we describe the representation of S-expressions
+in the memory of the IBM 704 by list structures similar to those used by
+Newell, Shaw and Simon [2], and the representation of S-functions by
+program. Then we mention the main features of the LISP programming system
+for the IBM 704. Next comes another way of describing computations with
+symbolic expressions, and finally we give a recursive function
+interpretation of flow charts.
+
 ### Go To Considered Harmful - E. Dijkstra - 1968
 
 _Abstract_: For a number of years I have been familiar with the observation
