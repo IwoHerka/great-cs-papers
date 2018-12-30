@@ -51,6 +51,19 @@ proof of a simple theorem is displayed. Finally, it is argued that important
 advantage, both theoretical and practical, may follow from a pursuance of
 these topics.
 
+### [No Silver Bullet - Essence and Accidents of Software Engineering](https://github.com/IwoHerka/great-cs-papers/blob/master/No_Silver_Bullet_Essence_and_Accidents_of_Software_Engineering_F_P_Brooks_Jr.pdf)
+
+_Abstract_: 
+Of all the monsters that fill the nightmares of our folklore, none terrify
+more than werewolves, because they transform unexpectedly from the familiar
+into horrors. For these, one seeks bullets of silver that can magically lay
+them to rest. The familiar software project, at least as seen by the
+nontechnical manager, has something of this character; it is usually innocent
+and straightforward, but is capable of becoming a monster of missed schedules,
+blown budgets, and flawed products. So we hear desperate cries for a silver
+bullet--something to make software costs drop as rapidly as computer hardware
+costs do.
+
 ### [Why Functional Programming Matters - J. Hughes - 1989/1990](https://github.com/IwoHerka/great-cs-papers/blob/master/Why_Functional_Programming_Matters_J_Hughes.pdf)
 
 _Abstract_: As software becomes more and more complex, it is more and more
