@@ -51,7 +51,7 @@ proof of a simple theorem is displayed. Finally, it is argued that important
 advantage, both theoretical and practical, may follow from a pursuance of
 these topics.
 
-### [No Silver Bullet - Essence and Accidents of Software Engineering](https://github.com/IwoHerka/great-cs-papers/blob/master/No_Silver_Bullet_Essence_and_Accidents_of_Software_Engineering_F_P_Brooks_Jr.pdf)
+### [No Silver Bullet - Essence and Accidents of Software Engineering - F. P. Brooks Jr. - 1987](https://github.com/IwoHerka/great-cs-papers/blob/master/No_Silver_Bullet_Essence_and_Accidents_of_Software_Engineering_F_P_Brooks_Jr.pdf)
 
 _Abstract_: 
 Of all the monsters that fill the nightmares of our folklore, none terrify
