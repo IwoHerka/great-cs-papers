@@ -78,6 +78,15 @@ used in game-playing programs). We conclude that since modularity is the
 key to successful programming, functional programming offers important
 advantages for software development.
 
+### [The Roots of Lisp](https://github.com/IwoHerka/great-cs-papers/blob/master/The_Roots_of_Lisp.pdf)
+
+_Abstract_: In 1960, John McCarthy published a remarkable paper in which he
+did for programming something like what Euclid did for geometry.1 He showed how, given
+a handful of simple operators and a notation for functions, you can build a
+whole programming language. He called this language Lisp, for “List Processing,”
+because one of his key ideas was to use a simple data structure called a
+list for both code and data.
+
 ### [Out of the Tar Pit - B. Moseley, P. Marks - 2006](https://github.com/IwoHerka/great-cs-papers/blob/master/Out_of_the_Tar_Pit_B_Moseley_P_Marks.pdf)
 
 _Abstract_: Complexity is the single major difficulty in the successful development
